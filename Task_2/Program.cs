@@ -1,4 +1,6 @@
-﻿int Max(int arg1, int arg2, int arg3)
+﻿// Найти максимальный элемент массива
+
+int Max(int arg1, int arg2, int arg3)
 {
     int result = arg1;
     if (arg2 > arg1) result = arg2;
